@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/listofusers-react/static/css/main.4bd370c1.css",
+    "main.js": "/listofusers-react/static/js/main.cd633912.js",
+    "static/js/787.55b205a8.chunk.js": "/listofusers-react/static/js/787.55b205a8.chunk.js",
+    "static/media/color.png": "/listofusers-react/static/media/color.6441e63a57ccc5105bad.png",
+    "index.html": "/listofusers-react/index.html",
+    "main.4bd370c1.css.map": "/listofusers-react/static/css/main.4bd370c1.css.map",
+    "main.cd633912.js.map": "/listofusers-react/static/js/main.cd633912.js.map",
+    "787.55b205a8.chunk.js.map": "/listofusers-react/static/js/787.55b205a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bd370c1.css",
+    "static/js/main.cd633912.js"
+  ]
+}
